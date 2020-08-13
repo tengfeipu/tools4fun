@@ -1,4 +1,6 @@
-####本仓库用于存放一些小工具
+#### 本仓库用于存放一些小工具以及源码
+
+
 
 1、**视频水印工具类**（WaterMarkTool）
 
@@ -16,7 +18,7 @@
 
 ![avatar](images/watermark.gif) 
 
- **直接下载Jar包**
+ **下载Jar包：**Click here
 
 
 
