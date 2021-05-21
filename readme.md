@@ -2,7 +2,7 @@
 
 
 
-1、**视频水印工具类 **[WaterMarkTool](https://github.com/tengfeipu/tools4fun/tree/master/watermark)
+1、**视频水印工具类 ** [WaterMarkTool](https://github.com/tengfeipu/tools4fun/tree/master/watermark)
 
 本工具通过ffmpeg给视频添加水印，有两个版本，区别如下：
 
